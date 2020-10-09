@@ -1,0 +1,47 @@
+html {
+  background-color: #f2dcb7;
+  background-image: linear-gradient(#617C9C 25%, #D8D6CE, #E9DFD1, #F2DCB7);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+img.sticky {
+  position: sticky;
+  bottom: 0px;
+}
+h1 {
+  font-family: 'Press Start 2P',cursive;
+  font-size: 22px;
+  line-height: 30px;
+}
+h2 {
+  font-family: 'Josefin Sans',sans-serif;
+  font-size: 30px;
+}
+p {
+  font-family: 'Josefin Sans',sans-serif;
+  font-size: 20px;
+}
+.disco {
+  font-size: 16px;
+  margin-bottom: 3px;
+  margin-top: 3px;
+  margin-left: 5px;
+}
+
+.about {
+  font-size: 18px;
+  margin-left: 15px;
+  margin-right: 10px;
+  line-height: 25px;
+}
+
+table.film {
+  border-collapse: collapse;
+  border: 1px solid #20221E;
+  table-layout: fixed;
+}
+
+.link {
+  color: #20221E;
+}
